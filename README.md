@@ -68,7 +68,7 @@ text
 
 ```
 # 无密码示例
-https://lazymans.lanzoue.com/i3hMK3hn4qze
+https://lazymans.lanzoue.com/xxxxx
 # 有密码示例
 https://lanzoue.com/xxxxx,1234
 ```
